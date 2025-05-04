@@ -1,0 +1,272 @@
+[28-Aug-2023 23:40:24 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[28-Aug-2023 23:40:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[28-Aug-2023 23:40:28 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[28-Aug-2023 23:40:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[28-Aug-2023 23:40:30 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[28-Aug-2023 23:40:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[28-Aug-2023 23:40:31 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[28-Aug-2023 23:40:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 00:48:30 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 00:48:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 01:19:06 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 01:19:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:41:06 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:41:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:41:18 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:41:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:43:09 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:43:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:43:11 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 05:43:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 06:05:37 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 06:05:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 11:15:00 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 11:15:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 11:15:00 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 11:15:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 19:02:09 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 19:02:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 21:10:53 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 21:10:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 21:41:44 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 21:41:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:06:18 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:06:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:16:13 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:16:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:28:15 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:28:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:29:54 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:29:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:29:58 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:29:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:36:57 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:36:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:38:39 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:38:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:40:09 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:40:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:40:17 UTC] PHP Warning:  require(includes\connection.php): Failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:40:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/zijefugu/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:40:55 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:40:55 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[29-Aug-2023 23:40:55 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 00:18:42 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 00:18:42 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 00:18:42 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 00:37:02 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 00:37:02 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 00:37:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 01:25:48 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 01:25:48 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 01:25:48 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:25:12 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:25:12 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:25:12 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:28:44 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:28:44 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:28:44 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:29:03 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/journals.php on line 2
+[30-Aug-2023 08:29:03 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/journals.php on line 2
+[30-Aug-2023 08:29:03 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/journals.php on line 2
+[30-Aug-2023 08:45:29 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:45:29 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:45:29 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:45:44 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/journals.php on line 2
+[30-Aug-2023 08:45:44 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/journals.php on line 2
+[30-Aug-2023 08:45:44 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/journals.php on line 2
+[30-Aug-2023 08:46:43 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_journal1.php on line 2
+[30-Aug-2023 08:46:43 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_journal1.php on line 2
+[30-Aug-2023 08:46:43 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_journal1.php on line 2
+[30-Aug-2023 08:47:14 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:47:14 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 08:47:14 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 13:25:36 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 13:25:36 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 13:25:36 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:06 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:06 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:06 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:06 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:06 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:06 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:29 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:29 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:29 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:48 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:48 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[30-Aug-2023 19:07:48 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 06:45:58 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 06:45:58 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 06:45:58 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 09:59:09 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 09:59:09 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 09:59:09 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 10:25:39 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 10:25:39 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 10:25:39 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 10:26:19 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 10:26:19 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 10:26:19 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/index.php on line 3
+[31-Aug-2023 10:53:53 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_journal2.php on line 2
+[31-Aug-2023 10:53:53 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_journal2.php on line 2
+[31-Aug-2023 10:53:53 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_journal2.php on line 2
+[31-Aug-2023 10:56:02 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_journal3.php on line 2
+[31-Aug-2023 10:56:02 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_journal3.php on line 2
+[31-Aug-2023 10:56:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_journal3.php on line 2
+[31-Aug-2023 11:02:38 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/journals.php on line 2
+[31-Aug-2023 11:02:38 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/journals.php on line 2
+[31-Aug-2023 11:02:38 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/journals.php on line 2
+[31-Aug-2023 11:04:29 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 11:04:29 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 11:04:29 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 11:35:57 UTC] PHP Warning:  require(includes\session.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/login_action.php on line 3
+[31-Aug-2023 11:35:57 UTC] PHP Warning:  require(includes\session.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/login_action.php on line 3
+[31-Aug-2023 11:35:57 UTC] PHP Fatal error:  require(): Failed opening required 'includes\session.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/login_action.php on line 3
+[31-Aug-2023 13:20:18 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article55.php on line 2
+[31-Aug-2023 13:20:18 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article55.php on line 2
+[31-Aug-2023 13:20:18 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article55.php on line 2
+[31-Aug-2023 13:21:10 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 13:21:10 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 13:21:10 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 13:21:19 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article2.php on line 2
+[31-Aug-2023 13:21:19 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article2.php on line 2
+[31-Aug-2023 13:21:19 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article2.php on line 2
+[31-Aug-2023 13:33:34 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 13:33:34 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 13:33:34 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article1.php on line 2
+[31-Aug-2023 13:33:56 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article2.php on line 2
+[31-Aug-2023 13:33:56 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article2.php on line 2
+[31-Aug-2023 13:33:56 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article2.php on line 2
+[31-Aug-2023 13:34:04 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article3.php on line 2
+[31-Aug-2023 13:34:04 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article3.php on line 2
+[31-Aug-2023 13:34:04 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article3.php on line 2
+[31-Aug-2023 21:25:02 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article55.php on line 2
+[31-Aug-2023 21:25:02 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article55.php on line 2
+[31-Aug-2023 21:25:02 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article55.php on line 2
+[31-Aug-2023 22:17:00 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article3.php on line 2
+[31-Aug-2023 22:17:00 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article3.php on line 2
+[31-Aug-2023 22:17:00 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article3.php on line 2
+[31-Aug-2023 22:17:10 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article4.php on line 2
+[31-Aug-2023 22:17:10 UTC] PHP Warning:  require(includes\connection.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/read_article4.php on line 2
+[31-Aug-2023 22:17:10 UTC] PHP Fatal error:  require(): Failed opening required 'includes\connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/read_article4.php on line 2
+[31-Aug-2023 23:01:34 UTC] PHP Warning:  require(includes\session.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/create_article.php on line 2
+[31-Aug-2023 23:01:34 UTC] PHP Warning:  require(includes\session.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/create_article.php on line 2
+[31-Aug-2023 23:01:34 UTC] PHP Fatal error:  require(): Failed opening required 'includes\session.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/create_article.php on line 2
+[31-Aug-2023 23:01:47 UTC] PHP Warning:  require(includes\session.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/create_journal.php on line 2
+[31-Aug-2023 23:01:47 UTC] PHP Warning:  require(includes\session.php): failed to open stream: No such file or directory in /home/zijefugu/public_html/create_journal.php on line 2
+[31-Aug-2023 23:01:47 UTC] PHP Fatal error:  require(): Failed opening required 'includes\session.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/zijefugu/public_html/create_journal.php on line 2
+[13-Sep-2023 22:07:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/zijefugu/public_html/index.php on line 118
+[13-Sep-2023 22:07:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/zijefugu/public_html/index.php on line 118
+[13-Sep-2023 22:07:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/zijefugu/public_html/index.php on line 118
+[13-Sep-2023 22:07:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/zijefugu/public_html/index.php on line 118
+[30-May-2024 23:09:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/zijefugu/public_html/includes/connection.php on line 3
+[30-May-2024 23:09:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/index.php on line 116
+[30-May-2024 23:09:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/index.php on line 118
+[05-Jun-2024 11:15:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/zijefugu/public_html/includes/connection.php on line 3
+[05-Jun-2024 11:15:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/journals.php on line 59
+[05-Jun-2024 11:15:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/journals.php on line 60
+[10-Jun-2024 09:57:02 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/zijefugu/public_html/includes/connection.php on line 3
+[10-Jun-2024 09:57:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/read_journal2.php on line 60
+[10-Jun-2024 09:57:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_journal2.php on line 61
+[10-Jun-2024 09:57:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_journal2.php on line 63
+[18-Jul-2024 12:42:57 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/zijefugu/public_html/includes/connection.php on line 3
+[18-Jul-2024 12:42:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/index.php on line 116
+[18-Jul-2024 12:42:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/index.php on line 118
+[14-Oct-2024 15:53:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/zijefugu/public_html/includes/connection.php on line 3
+[14-Oct-2024 15:53:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/index.php on line 116
+[14-Oct-2024 15:53:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/index.php on line 118
+[30-Oct-2024 15:28:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/zijefugu/public_html/includes/connection.php on line 3
+[30-Oct-2024 15:28:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/read_article41.php on line 59
+[30-Oct-2024 15:28:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_article41.php on line 60
+[18-Dec-2024 17:47:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/zijefugu/public_html/includes/connection.php on line 3
+[18-Dec-2024 17:47:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/read_article71.php on line 59
+[18-Dec-2024 17:47:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_article71.php on line 60
+[11-Jan-2025 12:32:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/zijefugu/public_html/includes/connection.php on line 3
+[11-Jan-2025 12:32:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/read_article61.php on line 59
+[11-Jan-2025 12:32:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_article61.php on line 60
+[01-Feb-2025 19:51:21 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/zijefugu/public_html/includes/connection.php on line 3
+[01-Feb-2025 19:51:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/read_journal3.php on line 60
+[01-Feb-2025 19:51:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_journal3.php on line 61
+[01-Feb-2025 19:51:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_journal3.php on line 63
+[01-Feb-2025 19:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/zijefugu/public_html/includes/connection.php on line 3
+[01-Feb-2025 19:51:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/journals.php on line 59
+[01-Feb-2025 19:51:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/journals.php on line 60
+[15-Apr-2025 00:09:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/zijefugu/public_html/includes/connection.php on line 3
+[15-Apr-2025 00:09:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/zijefugu/public_html/read_article65.php on line 59
+[15-Apr-2025 00:09:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/zijefugu/public_html/read_article65.php on line 60
